@@ -1,0 +1,33 @@
+.container .row .col-md-7 h1 {
+    font-family: Lobster;
+    font-weight: bold;
+    color: snow;
+    font-size: 50px;
+}
+.container{
+    height: 80vh;
+ 
+}
+
+
+
+.container .row .col-md-7 p {
+    line-height: 0.4;
+    color: snow;
+}
+
+.container .row .col-md-7 button {
+    background-color: black;
+    color: snow;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 6px;
+}
+
+.container .row .col-md-7 button:hover {
+    background-color: orange;
+    color: black;
+    transition: all 0.5s ease;
+
+
+}
