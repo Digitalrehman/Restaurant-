@@ -23,7 +23,7 @@ const Menu = () => {
               <h1 className="fw-bold text-bg-warning">Menu Item</h1>
             </div>
             {data.map((item, index) => (
-              <div className="col-md-3" key={index}>
+              <div className="col-md-4" key={index}>
                 <Menu_card item={item} />
               </div>
             ))}
