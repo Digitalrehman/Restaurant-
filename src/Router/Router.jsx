@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Page from "../Components/Page/Page";
 import Items from "../Components/Page/Items";
 import Famous_item from "../Components/Page/Famous_item";
-import Service from "../Components/Page/service";
+import Service from "../Components/Page/Service";
 
 const Router = () => {
   return (
